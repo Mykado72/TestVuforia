@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="QRCodePagecran" size="300.000000 300.000000" />
+    <ImageTarget name="QRCodePagecranNoir" size="300.000000 300.000000" />
+    <ImageTarget name="Pagecran-fond-noir" size="646.000000 224.000000" />
+    <ImageTarget name="FemmeParfaite" size="1000.000000 1001.000000" />
+  </Tracking>
+</QCARConfig>
